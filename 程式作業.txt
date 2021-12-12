@@ -1,0 +1,10 @@
+	char A[5] = { '1','2', '3', '4', 0};
+	char k[3] = { '120', '30',0 };
+
+	int p = strcmp(k, k);
+
+
+
+	std::cout << strlen(A);
+	std::cout << "\n";
+	std::cout << p;
